@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>custom-starter-consumer-annotation</name>
+=======
+	<name>custom-starter-consumer-annotaion</name>
+>>>>>>> branch 'master' of git@github.com:pawankaushal/custom-starter.git
 	<comment></comment>
 	<projects>
 	</projects>

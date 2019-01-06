@@ -12,7 +12,7 @@
   
   <modules>
   <module>custom-starter-component</module>
-  <module>custom-starter-consumer-annotation</module>
+  <module>custom-starter-consumer-annotation</module> 
   <module>custom-starter-consumer-property</module>
   <module>custom-starter-consumer-scanner</module>
   </modules>
